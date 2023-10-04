@@ -6,7 +6,7 @@
 
 body {
   margin: 0;
-  background: #121212;
+  background: #000000;
 }
 
 button {
@@ -23,7 +23,7 @@ button {
   left: 0;
   width: 75px;
   height: 100%;
-  background: #3949ab;
+  background: #45ffca;
   transition: all 0.4s;
 }
 
@@ -123,7 +123,7 @@ body.open .sidebar-logo {
 }
 
 .sidebar-menu > button > span {
-  color: #f9f9f9;
+  color: #d80032;
   opacity: 0;
   transition: all 0.4s;
 }
